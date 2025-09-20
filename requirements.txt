@@ -217,4 +217,4 @@ wrapt @ file:///C:/b/abs_68gzx33lzh/croot/wrapt_1736543196433/work
 yapf @ file:///C:/b/abs_8aidayep18/croot/yapf_1708964372649/work
 yarl @ file:///C:/b/abs_281qby2vim/croot/yarl_1732546854547/work
 zipp @ file:///C:/b/abs_2fcpcg89my/croot/zipp_1732630746332/work
-tesseract-ocr-w64-setup
+
